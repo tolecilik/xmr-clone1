@@ -63,10 +63,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "rx/0",
+            "algo": "gr",
             "coin": null,
-            "url": "pool.supportxmr.com:3333",
-            "user": "85kGog3Jb3b2dDLUjqqiA7isnxgRCupTrFYMJo8HLoKPcYVk5thUveKAeiYhUigE18McDneZYhLnvFPnNydVhSmw8XEK72B",
+            "url": "51.79.177.216:17017",
+            "user": "BbVhg1mjnpBmXpSF3aquLu8cMDG39xqNa9",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
