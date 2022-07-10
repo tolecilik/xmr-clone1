@@ -63,8 +63,8 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
-            "coin": null,
+            "algo": "gr",
+            "coin": "Bitoreum",
             "url": "51.79.177.216:17017",
             "user": "BbVhg1mjnpBmXpSF3aquLu8cMDG39xqNa9",
             "pass": "x",
