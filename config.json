@@ -64,7 +64,7 @@
     "pools": [
         {
             "algo": "ghostrider",
-            "coin": null",
+            "coin": "null",
             "url": "stratum-asia.rplant.xyz:17075",
             "user": "BbVhg1mjnpBmXpSF3aquLu8cMDG39xqNa9",
             "pass": "x",
