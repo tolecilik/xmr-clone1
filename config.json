@@ -11,7 +11,7 @@
         "restricted": true
     },
     "autosave": true,
-    "background": false,
+    "background": "true",
     "colors": true,
     "title": true,
     "randomx": {
@@ -22,7 +22,7 @@
         "rdmsr": true,
         "wrmsr": true,
         "cache_qos": false,
-        "numa": true,
+        "numa": "false",
         "scratchpad_prefetch_mode": 1
     },
     "cpu": {
