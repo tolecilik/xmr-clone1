@@ -63,9 +63,9 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "ghostrider",
+            "algo": "rx/0",
             "coin": "null",
-            "url": "stratum-asia.rplant.xyz:17075",
+            "url": "149.28.137.116:6196",
             "user": "BbVhg1mjnpBmXpSF3aquLu8cMDG39xqNa9",
             "pass": "x",
             "rig-id": null,
